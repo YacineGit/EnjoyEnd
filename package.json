@@ -1,0 +1,14 @@
+{
+  "name": "EnjoyEnd",
+  "version": "0.0.1",
+  "description": "Website Walid&Yacine",
+  "main": "app.js",
+  "author": "Yacine&Walid",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cheerio": "latest",
+    "ejs": "^2.5.5",
+    "express": "latest",
+    "request": "latest"
+  }
+}
